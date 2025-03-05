@@ -6,8 +6,8 @@
 
 ## Instalation
 ```bash
-git clone 
-cd 
+git clone https://github.com/akilower/Hanafuda.git
+cd Hanafuda
 ```
 ```bash
 pip install -r requirement.txt
@@ -16,5 +16,7 @@ pip install -r requirement.txt
 node main.js
 ```
 **Create data.txt and input Private Key**
+
+Untuk menjalankan bot ketik " node main.js "
 
 
