@@ -9,10 +9,12 @@
 git clone https://github.com/akilower/Hanafuda.git
 cd Hanafuda
 ```
+## masukkan PRIVATE KEYS anda kedalam data.txt
+
 ```bash
 nano data.txt
 ```
-## masukkan PRIVATE KEYS anda kedalam data.txt
+## Install Module yang di butuhkan
 
 ```bash
 pip install -r requirement.txt
@@ -22,7 +24,8 @@ pip install -r requirement.txt
 node main.js
 ```
 **NOTE**
-Create data.txt and input yout Private Key 
-pastikan semua step nya benar
+
+**Create data.txt And Input Yout Private Key**
+**Pastikan Semua Step Nya Benar**
 
 
