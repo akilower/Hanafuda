@@ -10,12 +10,18 @@ git clone https://github.com/akilower/Hanafuda.git
 cd Hanafuda
 ```
 ```bash
+nano data.txt
+```
+## masukkan PRIVATE KEYS anda kedalam data.txt
+
+```bash
 pip install -r requirement.txt
 ```
 ```bash
 node main.js
 ```
 **Create data.txt and input Private Key**
+
 
 Untuk menjalankan bot ketik " node main.js "
 
