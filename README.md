@@ -25,7 +25,7 @@ node main.js
 ```
 **NOTE**
 
-**Create data.txt And Input Yout Private Key**
+**Create data.txt And Input Yout Private Key Dan**
 **Pastikan Semua Step Nya Benar**
 
 
