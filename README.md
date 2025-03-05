@@ -17,12 +17,12 @@ nano data.txt
 ```bash
 pip install -r requirement.txt
 ```
+## Untuk menjalankan bot ketik " node main.js "
 ```bash
 node main.js
 ```
-**Create data.txt and input Private Key**
-
-
-Untuk menjalankan bot ketik " node main.js "
+**NOTE**
+Create data.txt and input yout Private Key 
+pastikan semua step nya benar
 
 
